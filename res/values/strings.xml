@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (c) 2015 APRIJAL PASARIBU.
+  -->
+
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
